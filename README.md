@@ -1,3 +1,4 @@
 # demo
 This is my first Git repository
-author Deepanshi mehra 
+<br>
+author <b> Deepanshi mehra </b>
